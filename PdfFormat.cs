@@ -51,7 +51,7 @@ namespace ImageProcessor.Plugins.Pdf
         /// <summary>
         /// the mimetype of a pdf source
         /// </summary>
-        public override string MimeType => "application/pdf";
+        public override string MimeType => "image/png";
 
         /// <summary>
         /// The default output format
