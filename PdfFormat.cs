@@ -49,7 +49,7 @@ namespace ImageProcessor.Plugins.Pdf
         public override string[] FileExtensions => new[] { "pdf" };
 
         /// <summary>
-        /// the mimetype of a pdf source
+        /// the mimetype of the PNG output
         /// </summary>
         public override string MimeType => "image/png";
 
